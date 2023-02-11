@@ -1,0 +1,25 @@
+.heading
+{
+    color: white;
+    text-align: center;
+    margin-top: 8vh;
+}
+.form
+{
+    width: 400px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+.form-group input
+{
+    display: block;
+    border: 1px solid #ccc;
+    padding: 10px 12px;
+    width: 60%;
+    margin: auto auto 2vh auto;
+}
+.wrapper
+{
+    margin-top: 8vh;
+}
